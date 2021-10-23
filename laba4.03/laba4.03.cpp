@@ -27,6 +27,9 @@ int main() {
 		}
 	}
 
+	cout << "This program finds sum and multiplication of the elements under hatching. \n"
+		"The array is: \n\n";
+
 	for (int i = 0; i < n; i++)	// Output the array
 	{
 		for (int j = 0; j < m; j++)
