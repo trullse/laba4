@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "laba4.07", "laba4.07\laba4.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "laba4.08", "laba4.08\laba4.08.vcxproj", "{68D95EE5-7FD8-46CB-B6C4-CCE5AF83864F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task4.09", "task4.09\task4.09.vcxproj", "{FEDA36D2-DBFA-4D33-A079-881535B0B3BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{68D95EE5-7FD8-46CB-B6C4-CCE5AF83864F}.Release|x64.Build.0 = Release|x64
 		{68D95EE5-7FD8-46CB-B6C4-CCE5AF83864F}.Release|x86.ActiveCfg = Release|Win32
 		{68D95EE5-7FD8-46CB-B6C4-CCE5AF83864F}.Release|x86.Build.0 = Release|Win32
+		{FEDA36D2-DBFA-4D33-A079-881535B0B3BB}.Debug|x64.ActiveCfg = Debug|x64
+		{FEDA36D2-DBFA-4D33-A079-881535B0B3BB}.Debug|x64.Build.0 = Debug|x64
+		{FEDA36D2-DBFA-4D33-A079-881535B0B3BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEDA36D2-DBFA-4D33-A079-881535B0B3BB}.Debug|x86.Build.0 = Debug|Win32
+		{FEDA36D2-DBFA-4D33-A079-881535B0B3BB}.Release|x64.ActiveCfg = Release|x64
+		{FEDA36D2-DBFA-4D33-A079-881535B0B3BB}.Release|x64.Build.0 = Release|x64
+		{FEDA36D2-DBFA-4D33-A079-881535B0B3BB}.Release|x86.ActiveCfg = Release|Win32
+		{FEDA36D2-DBFA-4D33-A079-881535B0B3BB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
